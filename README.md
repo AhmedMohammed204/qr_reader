@@ -12,6 +12,8 @@
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
     <img src="https://img.shields.io/badge/State-Cubit%20%26%20setState-blue?style=for-the-badge" alt="State Management">
     <img src="https://img.shields.io/badge/Status-MVP%2FPrototype-orange?style=for-the-badge" alt="Status">
+    <hr>
+    <a href="https://www.mediafire.com/file/858r313i6hq70kr/FlexPay_v2.apk/file">App Link (APK Temporary)</a>
   </p>
 </div>
 
@@ -149,3 +151,5 @@ This application is a **proof-of-concept** and is **not production-ready**. It i
 
 -   **No Real Authentication:** User identity is tied to the device ID, which is not a secure or persistent method for a real-world app.
 -   **Limited Error Handling:** On-screen error handling is functional but not exhaustive.
+
+
